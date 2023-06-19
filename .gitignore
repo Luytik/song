@@ -1,0 +1,12 @@
+# ignore databases
+*.db
+
+# ignore logs
+
+*.log
+
+#directories
+
+target/
+bin/
+
